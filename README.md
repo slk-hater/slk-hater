@@ -1,5 +1,5 @@
 ```
-PS C:\Users\slkhater> cat info.txt
+cat info.txt
 Guilherme a Junior Developer located in Portugal.
 ```
 
